@@ -1,0 +1,62 @@
+@import url('https://font.googleapis.com/css2?family=Raleway:wght@300;400&display=swap');
+@import url('https://font.googleapis.com/css2?family=Sacramento&display=swap');
+body{
+	background-color:  #43CDDB;
+	padding:5vw;
+}
+h1{
+	color:#ffffff;
+	font-family: 'Sacramento';
+	text-align: center;
+	font-size:5vw;
+	margin-top:0vw;
+}
+h2{
+	color:#ffffff;
+	font-family: 'Sacramento';
+	text-align: left;
+	font-size: 3vw;
+	margin-top: 8vw;
+}
+p{
+	color:#181815;
+	font-family: 'Raleway'
+	font-size: 2vw;
+	text-align: justify;
+}
+ul{
+	font-family: 'Raleway';
+	font-size: 2vw;
+	color:#181815;
+}
+table{
+	font-family: 'Raleway';
+	color: white;
+	font-size:2vw;
+	border-collapse: collapse;
+	width:100%;
+}
+th, td{
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid gray;
+}
+tr:hover{
+	background-color: rgba(255,255,255,0.1);
+}
+#portada{
+	background-image: url('../img/walter5.jpg');
+	width: 100%;
+	height: 50vw;
+	background-position:  center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 10vw;
+}
+.lanzamientos{
+	width: 25vw;
+}
+.redes{
+	width: 8vw;
+	margin: 5vw;
+}
