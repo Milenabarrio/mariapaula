@@ -1,0 +1,28 @@
+input[type=text]{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0px;
+	display: block;
+	border: 1px solid skyblue;
+	box-sizing: border-box;
+}
+
+input[type=submit]{
+	width: 100%
+	background-color: #4CAF50;
+	color: green;
+	border-radius: 4px;
+	padding: 14px 20px;
+	margin: 8px 0px;
+	border: none;
+}
+div{
+	width: 60%;
+	background-color: lightgray;
+	margin: auto;
+	padding:  20px;
+	border-radius: 8px;
+}
+input[type=sutmit]: haver{
+	background-color: #3C8238;
+}
